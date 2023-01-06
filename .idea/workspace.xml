@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f199096e-0a69-492b-badb-0a32845fb1d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/CommonAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/otherProgramms/LinkForAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/otherProgramms/RandomLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TTturk/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TTturk/FirstStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TTturk/Localizaciya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TTturk/TTturkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/base/Base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/listing/RealListingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/realthome/RealthomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parserenglishbooks/Firsttest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parserenglishbooks/Probnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/variables/variablesXpathRu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/base/CustomListenners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/base/DataProviderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchAppartments/SearchAppartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/searchAppartments/TestSOUT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/common/CommonAction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/common/Config.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/otherProgramms/LinkForAssert.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/otherProgramms/RandomLogin.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/TTturk/Basket.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/TTturk/Localizaciya.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/TTturk/TTturkMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/listing/RealListingPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/realthome/RealthomePage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/parserenglishbooks/Firsttest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/base/CustomListenners.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/searchAppartments/SearchAppartTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2HZVmgbUmEXqwPGOGEgoc1CKDt4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/murat/IdeaProjects/untitled2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;selenium.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tests.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\murat\IdeaProjects\untitled2" />
+      <recent name="C:\Users\murat\IdeaProjects\untitled2\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\murat\IdeaProjects\untitled2\src\test\resources" />
+      <recent name="C:\Users\murat\IdeaProjects\untitled2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/murat/IdeaProjects/untitled2/src/test/resources/testng.xml">
+    <configuration name="C:/Users/murat/IdeaProjects/untitled2/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAppartTest.checkIsRdfedrectToListing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.searchAppartments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.searchAppartments" />
+      <option name="MAIN_CLASS_NAME" value="tests.searchAppartments.SearchAppartTest" />
+      <option name="METHOD_NAME" value="checkIsRdfedrectToListing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAppartTest.checkIsRedrectToListing (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTTTurk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.searchAppartments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.searchAppartments" />
+      <option name="MAIN_CLASS_NAME" value="tests.searchAppartments.SearchAppartTest" />
+      <option name="METHOD_NAME" value="checkIsRedrectToListing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAppartTest.checkIsRedrectToListing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.searchAppartments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.searchAppartments" />
+      <option name="MAIN_CLASS_NAME" value="tests.searchAppartments.SearchAppartTest" />
+      <option name="METHOD_NAME" value="checkIsRedrectToListing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/murat/IdeaProjects/untitled2/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.SearchAppartTest.checkIsRedrectToListing" />
+        <item itemvalue="TestNG.SearchAppartTest.checkIsRdfedrectToListing" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.SearchAppartTest.checkIsRedrectToListing (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="https://staging.tt-turk.com/ru" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f199096e-0a69-492b-badb-0a32845fb1d4" name="Changes" comment="" />
+      <created>1668492756478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668492756478</updated>
+      <workItem from="1668492758273" duration="6948000" />
+      <workItem from="1668581123511" duration="49499000" />
+      <workItem from="1669050923410" duration="50079000" />
+      <workItem from="1669789302209" duration="333000" />
+      <workItem from="1669790535509" duration="74000" />
+      <workItem from="1669790624086" duration="1867000" />
+      <workItem from="1669794453166" duration="507000" />
+      <workItem from="1669810021981" duration="40791000" />
+      <workItem from="1670228262728" duration="7283000" />
+      <workItem from="1670241465843" duration="2554000" />
+      <workItem from="1670313792567" duration="17742000" />
+      <workItem from="1670569792839" duration="605000" />
+      <workItem from="1670575073111" duration="3119000" />
+      <workItem from="1670591850783" duration="637000" />
+      <workItem from="1670592991450" duration="3180000" />
+      <workItem from="1670825288998" duration="1477000" />
+      <workItem from="1670831227067" duration="2756000" />
+      <workItem from="1670942931155" duration="315000" />
+      <workItem from="1670943407329" duration="8044000" />
+      <workItem from="1671086484616" duration="6651000" />
+      <workItem from="1671175563955" duration="8000" />
+      <workItem from="1671175590285" duration="7000" />
+      <workItem from="1671175834632" duration="13000" />
+      <workItem from="1672042749676" duration="16495000" />
+      <workItem from="1672145862331" duration="5000" />
+      <workItem from="1672146078565" duration="14000" />
+      <workItem from="1672211710854" duration="26882000" />
+      <workItem from="1672729119498" duration="10000" />
+      <workItem from="1672730738999" duration="33139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/base/Base2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/TTturk/FirstStep.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
